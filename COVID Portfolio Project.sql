@@ -94,7 +94,15 @@ where dea.continent is not null
 order by 2,3
 
 
--- STRUGGLED MORE WITH THE CONCEPTS BELOW 
+
+
+
+-- !!!!!!  STRUGGLED MORE WITH THE CONCEPTS BELOW  !!!!!!!
+
+
+
+
+
 
 
 -- Using CTE to perform Calculation on Partition By in previous query
