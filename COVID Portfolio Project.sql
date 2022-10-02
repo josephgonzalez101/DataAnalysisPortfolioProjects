@@ -1,3 +1,5 @@
+--Data sourced from https://ourworldindata.org/covid-deaths
+
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
@@ -96,8 +98,6 @@ order by 2,3
 
 
 
-
--- !!!!!!  STRUGGLED MORE WITH THE CONCEPTS BELOW  !!!!!!!
 
 
 
